@@ -1,0 +1,17 @@
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\bin\Debug\net7.0\LastPractosik.exe
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\bin\Debug\net7.0\LastPractosik.deps.json
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\bin\Debug\net7.0\LastPractosik.runtimeconfig.json
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\bin\Debug\net7.0\LastPractosik.dll
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\bin\Debug\net7.0\LastPractosik.pdb
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\obj\Debug\net7.0\LastPractosik.csproj.AssemblyReference.cache
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\obj\Debug\net7.0\LastPractosik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\obj\Debug\net7.0\LastPractosik.AssemblyInfoInputs.cache
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\obj\Debug\net7.0\LastPractosik.AssemblyInfo.cs
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\obj\Debug\net7.0\LastPractosik.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\obj\Debug\net7.0\LastPractosik.csproj.CopyComplete
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\obj\Debug\net7.0\LastPractosik.dll
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\obj\Debug\net7.0\refint\LastPractosik.dll
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\obj\Debug\net7.0\LastPractosik.pdb
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\obj\Debug\net7.0\LastPractosik.genruntimeconfig.cache
+C:\Users\Dmitrii Tihonov\RiderProjects\LastPractosik\LastPractosik\obj\Debug\net7.0\ref\LastPractosik.dll
